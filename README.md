@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sandesh 👋  
+AI/ML Engineer | Building Scalable Intelligent Systems  
 
-<!--
-**Saandesh/Saandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently building:
+- AI-based Weather Prediction System
+- Teenwell Mental Health App
+- ML Research Projects (Monthly)
 
-Here are some ideas to get you started:
+💡 Interests:
+Artificial Intelligence | Systems Software | Distributed Systems | Finance Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+LinkedIn: www.linkedin.com/in/sandeshjayy
